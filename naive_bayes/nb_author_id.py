@@ -39,7 +39,7 @@ print "predicting time:", round(time()-tP,3), "s"
 from sklearn.metrics import accuracy_score
 accuracy = accuracy_score(pred,labels_test)
 print accuracy
-
+#This is my test for GITlearn repository
 #########################################################
 
 
